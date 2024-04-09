@@ -29,7 +29,7 @@ public class assertEquals {
 	 //True
 	     Assert.assertTrue(driver.findElement(By.xpath("//h2[@class='_8eso']")).isDisplayed());
 	     System.out.println("True assertion verified");
-	     
+	     System.out.println("hello hit");
 	     
 	}
 }
