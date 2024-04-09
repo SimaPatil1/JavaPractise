@@ -30,6 +30,6 @@ public class assertEquals {
 	     Assert.assertTrue(driver.findElement(By.xpath("//h2[@class='_8eso']")).isDisplayed());
 	     System.out.println("True assertion verified");
 	     System.out.println("hello hit");
-	     
+	     System.out.println("ok added");
 	}
 }
